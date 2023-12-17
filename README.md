@@ -1,6 +1,6 @@
 # TPLCompiler
 
-# Members:
-Rubinos, Aaron Gil 
+# Members
+Rubinos, Aaron Gil        
 Edroso, Harbey
 Carabeo, Meldrick
